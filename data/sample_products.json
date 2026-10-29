@@ -1,0 +1,95 @@
+[
+  {
+    "id": "PROD_001",
+    "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones - Black",
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 398.00,
+    "raw_attributes": {
+      "battery_life": "30 hours",
+      "connectivity": "Bluetooth 5.2",
+      "weight": "250 grams"
+    }
+  },
+  {
+    "id": "PROD_002",
+    "title": "Sony WH1000XM5/B Premium Noise Cancelling Wireless Over-Ear Headphones (Black)",
+    "brand": "Sony Electronics",
+    "category": "Electronics",
+    "price": 399.99,
+    "raw_attributes": {
+      "battery": "30 hrs",
+      "wireless": "Bluetooth",
+      "item_weight": "0.25 kg"
+    }
+  },
+  {
+    "id": "PROD_003",
+    "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones - Silver",
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 398.00,
+    "raw_attributes": {
+      "color": "Silver",
+      "battery_life": "30 hours",
+      "connectivity": "Bluetooth 5.2"
+    }
+  },
+  {
+    "id": "PROD_004",
+    "title": "Apple iPhone 15 Pro (128 GB) - Natural Titanium",
+    "brand": "Apple",
+    "category": "Cell Phones",
+    "price": 999.00,
+    "raw_attributes": {
+      "storage": "128GB",
+      "color": "Natural Titanium",
+      "screen_size": "6.1 inches"
+    }
+  },
+  {
+    "id": "PROD_005",
+    "title": "Apple iPhone 15 Pro 256GB Natural Titanium Unlocked",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 1099.00,
+    "raw_attributes": {
+      "capacity": "256 GB",
+      "finish": "Natural Titanium",
+      "display": "6.1 in"
+    }
+  },
+  {
+    "id": "PROD_006",
+    "title": "Hydro Flask Wide Mouth Straw Lid Stainless Steel Water Bottle - 32 oz, Black",
+    "brand": "Hydro Flask",
+    "category": "Kitchen & Dining",
+    "price": 44.95,
+    "raw_attributes": {
+      "volume": "32 oz",
+      "material": "Stainless Steel"
+    }
+  },
+  {
+    "id": "PROD_007",
+    "title": "Hydro Flask 32oz Insulated Stainless Steel Wide Mouth Bottle with Straw - Black",
+    "brand": "Hydro Flask",
+    "category": "Sports & Outdoors",
+    "price": 44.99,
+    "raw_attributes": {
+      "capacity": "0.95 L",
+      "material": "18/8 Pro-Grade Stainless Steel"
+    }
+  },
+  {
+    "id": "PROD_008",
+    "title": "Anker 737 Power Bank (PowerCore 24K), 24,000mAh 3-Port Portable Charger",
+    "brand": "Anker",
+    "category": "Accessories",
+    "price": 149.99,
+    "raw_attributes": {
+      "capacity": "24000 mAh",
+      "output": "140W max"
+    }
+  }
+]
